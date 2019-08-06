@@ -1,0 +1,21 @@
+Conceptos basicos son IMPORTATANTES tener claros en el video
+
+Wireframe (diseño web)
+Ir a la navegaciónIr a la búsqueda
+Para otros usos de este término, véase wireframe.
+
+Un documento esquemático para un perfil personal creado usando Balsamiq.
+Un wireframe para un sitio web, también conocido como un esquema de página o plano de pantalla, es una guía visual que representa el esqueleto o estructura visual de un sitio web.1 El wireframe esquematiza el diseño de página u ordenamiento del contenido del sitio web, incluyendo elementos de la interfaz y sistemas de navegación, y cómo funcionan en conjunto.2 Usualmente este esquema carece de estilo tipográfico, color o aplicaciones gráficas, ya que su principal objetivo reside en la funcionalidad, comportamiento y jerarquía de contenidos.3 En otras palabras, se enfoca en “qué hace la pantalla, no cómo se ve.”4 Los esquemas pueden ser dibujados con lápiz y papel o esquemas en una pizarra, o pueden ser producidos con medios de diseño de aplicaciones de software libre o comerciales.
+Los wireframes se enfocan en:5
+•	Los tipos de información que será mostrada
+•	La cantidad de las funciones disponibles
+•	Las prioridades relativas de la información y las funciones
+•	Las reglas para mostrar ciertos tipos de información
+•	El efecto de los distintos escenarios en la pantalla
+El wireframe del sitio web conecta la estructura conceptual, o arquitectura de la información, con la superficie, o diseño visual del sitio web.2 Los wireframes ayudan a establecer funcionalidad, y las relaciones entre las diferentes plantillas de pantallas de un sitio web. Un proceso iterativo de creación de wireframes es una forma efectiva de hacer prototipos de páginas rápidos, mientras se mide la practicidad de un concepto de diseño. Típicamente, la esquematización comienza entre “diagramas de flujo de estructuras de trabajo de alto nivel o mapas de sitio y diseños de pantallas.”3 Dentro del proceso de construcción de un sitio web, el dibujo de un wireframe es donde el concepto se vuelve tangible.6
+
+¿Qué es y para qué sirve una landing page?
+Una landing page es una página web preliminar o pagina de aterrizaje donde queremos destacar algo en especial, ya sea un producto, o alguna novedad o promoción de un producto. Se utilizan para todo lo que es SEM (search engine marketing), más conocido como los anuncios de Google Adwords.
+
+****¿Qué es el footer de una página web?****++++
+El footer es la parte inferior de una estructura web en la que generalmente se incluyen links de navegación, enlaces de interés, copyright o botones a las redes sociales del site. El footer suele estar claramente diferenciada de alguna forma del resto de la página web.
